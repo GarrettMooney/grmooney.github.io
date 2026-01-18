@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: ""
+  search: true
+  navbar:
+    title: false
+    left:
+      - text: Notes
+        href: index.qmd
+    right:
+      - icon: search
+        id: search
+
+format:
+  html:
+    theme: cosmo
+    toc: true

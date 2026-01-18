@@ -1,0 +1,84 @@
+---
+title: "Vocabulary"
+description: "Vocabulary words acquired over time"
+date: 2026-01-18
+---
+
+## async week 1
+
+- algo: something
+- almuerza: he/she eats lunch
+- alta: tall, high
+- barrio: neighborhood
+- buena relación: good relationship
+- café: coffee
+- centro: center
+- cerveza: beer
+- ciencia ficción: science fiction
+- ciudad: city
+- compañeros: colleagues
+- con: with
+- concentración: concentration
+- correos: emails
+- cuando: when
+- cuando: when  
+- dar: to give, to take (a walk)
+- departamento: apartment
+- desde: since, from
+- diseñadora: designer
+- domingo: Sunday
+- ejercicio: exercise
+- empiezar: to start
+- escuchar: to listen
+- esperar: to wait
+- esquina: corner
+- fuera: outside
+- grabar: to record
+- grábate: record yourself
+- gráfica: graphic
+- gustar: to like
+- hacer: to do, to make
+- ir a: to go to
+- jueves: Thursday
+- la tarde: the afternoon
+- le gusta: he/she likes
+- leer: to read
+- leyendo: reading
+- lunes: Monday
+- luz: light
+- martes: Tuesday
+- mediodia: noon, midday
+- mirar: to watch
+- miércoles: Wednesday
+- más: more
+- novia: girlfriend
+- oficina: office
+- paseo: walk, stroll
+- película: movie
+- pequeño: small
+- pero: but
+- perro/a: dog
+- poner: to put, to place
+- por: for, around
+- preparar: to prepare
+- pronunciar: to pronounce
+- que está: that is
+- revisar: to review
+- rápido: quick
+- sabado: Saturday
+- salir: to leave, to go out
+- serie: series
+- siguiente: next, following
+- su: his, her, its, your (formal)
+- tanto: so much
+- tener que: to have to
+- terror: terror, horror
+- tomar: to take, to drink
+- trabajar: to work
+- tratar de: to try to
+- usar: to use
+- viajar: to travel
+- viernes: Friday
+- viver: to live
+- voz alta: loud voice, "out loud"
+- voz: voice
