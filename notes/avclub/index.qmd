@@ -1,6 +1,6 @@
 ---
-title: "A.V. Club writers"
-description: "Where A.V. Club–era TV & film writers are now"
+title: "A.V. Club alumni"
+description: "Where critics from the golden era of The A.V. Club are now"
 ---
 
 | who | link | format | letterboxd |
