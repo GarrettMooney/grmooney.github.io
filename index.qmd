@@ -1,5 +1,6 @@
 ---
 title: "Notes"
+aliases: ["/notes/"]
 listing:
   contents: "notes/*/index.qmd"
   type: table
