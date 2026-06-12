@@ -5,7 +5,7 @@ description: "Where A.V. Club–era TV & film writers are now"
 
 | who | link | format | letterboxd |
 | --- | --- | --- | --- |
-| Scott Tobias & Keith Phipps | [The Reveal](https://thereveal.substack.com) | Substack | [Tobias](https://letterboxd.com/scotttobias), [Phipps](https://letterboxd.com/kphipps3000) |
+| Scott Tobias & Keith Phipps | [The Reveal](https://thereveal.film/) | Independent site | [Tobias](https://letterboxd.com/scotttobias), [Phipps](https://letterboxd.com/kphipps3000) |
 | Genevieve Koski, Keith Phipps, Tasha Robinson & Scott Tobias | [The Next Picture Show](https://podcasts.apple.com/us/podcast/the-next-picture-show/id1057714949) | Podcast | [Koski](https://letterboxd.com/genevievekoski), [Phipps](https://letterboxd.com/kphipps3000), [Robinson](https://letterboxd.com/tasharobinson), [Tobias](https://letterboxd.com/scotttobias) |
 | Keith Phipps | [keithphipps.com](https://www.keithphipps.com) | Personal site | [kphipps3000](https://letterboxd.com/kphipps3000) |
 | Nathan Rabin | [Nathan Rabin's Happy Place](https://www.nathanrabin.com) | Blog / personal site | [nathanrabin](https://letterboxd.com/nathanrabin) |
